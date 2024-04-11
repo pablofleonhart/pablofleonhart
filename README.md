@@ -59,11 +59,13 @@ I have a bachelor's degree in Computer Science from the University of Santa Cruz
 
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablofleonhart&theme=gotham&show_icons=true)
 
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pablofleonhart&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=pablofleonhart&theme=onedark&theme=dark_dimmed&no-frame=true&column=4&margin-w=15&margin-h=15)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pablofleonhart&left_color=blue&right_color=green&left_text=Hello%20Visitors)
+-->
 <!--
 **pablofleonhart/pablofleonhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
