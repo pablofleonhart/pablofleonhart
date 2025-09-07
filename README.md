@@ -10,7 +10,7 @@
 </div>
 <br>
 
-<div align="center" >
+<div align="left" >
 I have a bachelor's degree in Computer Science from the University of Santa Cruz do Sul (UNISC) - 2015 and a master's degree in Computer Science from the Federal University of Rio Grande do Sul (UFRGS) - 2019. Professionally, as a developer, I have experience with Python for 2 years, JavaScript/TypeScript for 4 years on different projects. I am passionate about new projects and solutions, I also have easy interpersonal communication and teamwork.
 </div>
 <br>
@@ -50,9 +50,9 @@ I have a bachelor's degree in Computer Science from the University of Santa Cruz
 📊 Github Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablofleonhart&layout=compact&theme=gotham)
-
+<!--
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablofleonhart&theme=gotham&show_icons=true)
-
+-->
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pablofleonhart&theme=tokyonight_duo)](https://git.io/streak-stats)
 
